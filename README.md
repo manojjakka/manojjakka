@@ -4,6 +4,9 @@
 
 <br/>
 
+<a href="https://manojjakka.github.io/manoj-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 <a href="https://linkedin.com/in/manojjakka">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -162,6 +165,9 @@ Full-stack Flask/Django web application supporting student mental wellness, test
 
 <div align="center">
 
+<a href="https://manojjakka.github.io/manoj-portfolio">
+<img src="https://img.shields.io/badge/Portfolio-View_Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 <a href="https://linkedin.com/in/manojjakka">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
